@@ -14,7 +14,7 @@ export default function HomeScreen() {
         <Image
 
         
-          source={require('@/assets/images/unnamed.jpg')}
+          source={require('@/assets/images/puniru.jpg')}
           style={styles.reactLogo}
         />
       }>
@@ -34,19 +34,23 @@ export default function HomeScreen() {
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Especialidades:</ThemedText>
         <ThemedText>
-nehuma        </ThemedText>
+sou main Caçador(o pior personagem do jogo) e Demogorgon(tier C)(coisas do DbD)... É... nada muito além disso        </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Como entrar em contato:</ThemedText>
         <ThemedText>
 NÃO ENTRE          <ThemedText type="defaultSemiBold"></ThemedText> 
+
           <ThemedText type="defaultSemiBold"></ThemedText> 
           <ThemedText type="defaultSemiBold"></ThemedText> 
           <ThemedText type="defaultSemiBold"></ThemedText>
         </ThemedText>
       </ThemedView>
+
     </ParallaxScrollView>
-  );
+ 
+
+ );
 }
 
 const styles = StyleSheet.create({
@@ -60,8 +64,8 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   reactLogo: {
-    height: 251,
-    width: 353,
+    height: 271,
+    width: 425,
     bottom: 0,
     left: 0,
     position: 'absolute',
