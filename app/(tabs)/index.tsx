@@ -34,12 +34,12 @@ export default function HomeScreen() {
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Especialidades:</ThemedText>
         <ThemedText>
-sou main Caçador(o pior personagem do jogo) e Demogorgon(tier C)(coisas do DbD)... É... nada muito além disso        </ThemedText>
+sou main Caçador e main Demogorgon o DbD... É... nada muito além disso        </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Como entrar em contato:</ThemedText>
+        <ThemedText type="subtitle">Previsões:</ThemedText>
         <ThemedText>
-NÃO ENTRE          <ThemedText type="defaultSemiBold"></ThemedText> 
+Que Puniru receba logo a segunda temporada e que lance logo Steel Ball Run no Brasil         <ThemedText type="defaultSemiBold"></ThemedText> 
 
           <ThemedText type="defaultSemiBold"></ThemedText> 
           <ThemedText type="defaultSemiBold"></ThemedText> 
